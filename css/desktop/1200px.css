@@ -1,0 +1,40 @@
+@media screen and (max-width: 1200px){
+    .n-menu {
+        width: 60%;
+    }
+
+    .c-b-title {
+        width: 100%;
+        left: 0;
+    }
+
+    .c-b-t-text {
+        user-select: none;
+        text-align: center;
+        line-height: 45px;
+    }
+
+    .c-b-t-text1{
+        font-family: 'Poppins-Bold';
+        color: white;
+        font-size: 85px;
+    }
+
+    .c-b-t-text2 {
+        font-family: 'poppins-light';
+        color: white;
+        font-size: 25px;
+    }
+
+    #c-b-t-l-iso {
+        width: 80px;
+    }
+    
+    #c-b-t-l-seamac {
+        width: 75px;
+    }
+    
+    #c-b-t-l-tesda{
+        width: 65px;
+    }
+}

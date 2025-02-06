@@ -1,0 +1,55 @@
+@media screen and (max-width: 1020px){
+    .n-title {
+        text-align: center;
+    }
+
+    .navigator {
+        flex-direction: column;
+        padding-block: 20px;
+    }
+    
+    .n-menu {
+        width: 100%;
+    }
+
+    .n-m-dropdown {
+        margin-inline: 20px;
+    }
+
+    .c-b-t-logo{
+        justify-content: space-evenly;
+        display: flex;
+        width: 250px;
+        margin-block: 2vh;
+    }
+    
+    .c-b-t-text {
+        user-select: none;
+        text-align: center;
+        line-height: 40px;
+    }
+
+    .c-b-t-text1{
+        font-family: 'Poppins-Bold';
+        color: white;
+        font-size: 65px;
+    }
+
+    .c-b-t-text2 {
+        font-family: 'poppins-light';
+        color: white;
+        font-size: 20px;
+    }
+
+    #c-b-t-l-iso {
+        width: 75px;
+    }
+    
+    #c-b-t-l-seamac {
+        width: 70px;
+    }
+    
+    #c-b-t-l-tesda{
+        width: 60px;
+    }
+}

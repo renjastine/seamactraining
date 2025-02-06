@@ -1,0 +1,36 @@
+@media screen and (max-width: 1470px){
+    .n-menu {
+        width: 50%;
+    }
+
+    .c-b-t-text {
+        user-select: none;
+        text-align: center;
+        line-height: 50px;
+    }
+
+    .c-b-t-text1{
+        font-family: 'Poppins-Bold';
+        color: white;
+        font-size: 90px;
+    }
+
+    .c-b-t-text2 {
+        font-family: 'poppins-light';
+        color: white;
+        font-size: 28px;
+    }
+
+    #c-b-t-l-iso {
+        width: 85px;
+    }
+    
+    #c-b-t-l-seamac {
+        width: 80px;
+    }
+    
+    #c-b-t-l-tesda{
+        width: 70px;
+    }
+    
+}
